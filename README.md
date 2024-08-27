@@ -1,6 +1,6 @@
 # Micro_Blog
 
-This is a simple microblogging application built using HTML, CSS, Python Flask, and MongoDB. The application allows users to keep track of everything they have learnt.
+A simple microblogging application built using HTML, CSS, Python Flask, and MongoDB. The application allows users to keep track of everything they have learnt.
 
 ## Features
 
