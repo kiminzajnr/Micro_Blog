@@ -4,8 +4,8 @@ This is a simple microblogging application built using HTML, CSS, Python Flask, 
 
 ## Features
 
-- **Create Blog Entries:** 
-- **View Blog Entries:** 
+- Create Blog Entries 
+- View Blog Entries
 
 ## Technologies Used
 
