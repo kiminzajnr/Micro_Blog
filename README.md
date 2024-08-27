@@ -1,11 +1,11 @@
 # Micro_Blog
 
-This is a simple microblogging application built using HTML, CSS, Python Flask, and MongoDB. The application allows users to create and view blog entries.
+This is a simple microblogging application built using HTML, CSS, Python Flask, and MongoDB. The application allows users to keep track of everything they have learnt.
 
 ## Features
 
-- **Create Blog Entries:** Users can create new blog entries by submitting content through the web interface.
-- **View Blog Entries:** All blog entries are displayed on the homepage, along with the date they were posted.
+- **Create Blog Entries:** 
+- **View Blog Entries:** 
 
 ## Technologies Used
 
@@ -19,7 +19,7 @@ This is a simple microblogging application built using HTML, CSS, Python Flask, 
 
 - Python 3.x
 - MongoDB
-- pip (Python package installer)
+- pip
 
 ### Installation
 
@@ -29,16 +29,24 @@ This is a simple microblogging application built using HTML, CSS, Python Flask, 
    git clone https://github.com/kiminzajnr/Micro_Blog.git
    cd Micro_Blog
 
-2. **Install the required Python packages:**
+2. Create an environment
+    ```
+    python3 -m venv .venv
+
+3. Activate the environment
+    ```
+    . .venv/bin/activate
+
+4. **Install the required packages:**
     ```
     pip install -r requirements.txt
 
-3. **Set up environment variables:**
+5. **Set up environment variables:**
     Create a `.env` file in the root directory of the project and add your MongoDB connection string:
     ```
     MONGODB_URI=your_mongodb_uri
 
-4. **Run the application:**
+6. **Run the application:**
     ```
     flask run
 
