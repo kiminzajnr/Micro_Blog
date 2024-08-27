@@ -41,7 +41,7 @@ A simple microblogging application built using HTML, CSS, Python Flask, and Mong
     ```
     pip install -r requirements.txt
 
-5. **Set up environment variables:**
+5. **Set up environment variables:**  
     Create a `.env` file in the root directory of the project and add your MongoDB connection string:
     ```
     MONGODB_URI=your_mongodb_uri
