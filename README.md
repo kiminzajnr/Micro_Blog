@@ -54,4 +54,4 @@ A simple microblogging application built using HTML, CSS, Python Flask, and Mong
     ```
     gunicorn -b 127.0.0.1:5000 "app:create_app()"
 
-The application will be available at http://127.0.0.1:5000/.
+The application will be available at http://127.0.0.1:5000/
